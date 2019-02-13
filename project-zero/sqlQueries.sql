@@ -1,4 +1,3 @@
-    
 CREATE TABLE LockedUser(
     accountL int,
     lockedName varchar2(50), 
